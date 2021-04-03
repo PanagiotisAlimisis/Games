@@ -1,0 +1,6 @@
+*.o
+rpg
+.vscode
+a.out
+help*
+test*
